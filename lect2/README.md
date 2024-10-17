@@ -5,9 +5,9 @@
 ### 2. Использование собственных виджетов
 В файле `main.dart` создала в нем свои виджеты и использовала их в главной функции:
 
-`import 'package:flutter/material.dart';
+```import 'package:flutter/material.dart';
 
-void main() {`
+void main() {
   runApp(
       MaterialApp( 
       home: Scaffold(
@@ -20,7 +20,7 @@ void main() {`
       
     )
   );
-}`
+}
 class ColorContainer extends StatefulWidget{
    const ColorContainer ({super.key, required this.color});
   
@@ -82,23 +82,31 @@ class _ColorContainerState extends State<ColorContainer> {
     );
   }
 }
-`
+```
 
 > Для добавления фотографий создала папку "assets", а в файле pubspec.yaml прописала дирректории:
 
- ` uses-material-design: true
+ ``` uses-material-design: true
   assets:
-  - assets/`
-    
+  - assets/
+```
 Скриншоты работы программы:
-    ![image](https://github.com/user-attachments/assets/fa941e26-65b2-48a7-9285-6652e3a0f664)
-    ![image](https://github.com/user-attachments/assets/8e16346f-0429-4d17-aa8a-7387efc0d185)
-    ![image](https://github.com/user-attachments/assets/a0942e2f-8aad-4e79-8cdf-6922dae83991)
-
+  <p align="center">
+	  <img width="250" height="450" src="https://github.com/user-attachments/assets/fa941e26-65b2-48a7-9285-6652e3a0f664">
+	</p>
+ <p align="center">
+	  <img width="250" height="450" src="https://github.com/user-attachments/assets/8e16346f-0429-4d17-aa8a-7387efc0d185">
+	</p>
+ <p align="center">
+	  <img width="250" height="450" src="https://github.com/user-attachments/assets/a0942e2f-8aad-4e79-8cdf-6922dae83991">
+	</p>
+    
 > Для добавления шрифтов создалв папку "fonts", а в файле pubspec.yaml прописалв дирректории:
 
-`fonts:
+```fonts:
     - family: Apple Chancery
       fonts:
-        - asset: fonts/Apple Chancery.ttf`
+        - asset: fonts/Apple Chancery.ttf```
+
+
 
