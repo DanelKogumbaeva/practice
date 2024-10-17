@@ -123,10 +123,11 @@ fonts:
 
 ## Создание ListView
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/a087b5b9-6518-4e45-9c73-598cfbb98583">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/27e360d7-68c2-48ac-86e8-2cf43b09282d">
 	</p>
   <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/8a5facdb-edbf-437a-9ffd-3ff047db7764">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/36f08ba0-e48a-4614-81d6-85b5449b2105">
+	  
 	</p>
 
 
