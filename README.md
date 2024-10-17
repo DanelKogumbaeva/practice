@@ -1,9 +1,11 @@
 ## Работа с кроссплатформенным фреймворком Flutter
 ### 1. Начало работы с Flutter
 С помощью Visual Code установила плагин для работы с Flutter и создала первый проект с дефолтным приложением, после чего протестировал его работу в iOS приложении и эмуляторе iPhone.
+
 ### 2. Использование собственных виджетов
 В файле `main.dart` создала в нем свои виджеты и использовала их в главной функции:
-``import 'package:flutter/material.dart';
+
+`import 'package:flutter/material.dart';
 
 void main() {
   runApp(
@@ -18,7 +20,7 @@ void main() {
       
     )
   );
-}`
+}
 class ColorContainer extends StatefulWidget{
    const ColorContainer ({super.key, required this.color});
   
@@ -83,6 +85,7 @@ class _ColorContainerState extends State<ColorContainer> {
 `
 
 > Для добавления фотографий создала папку "assets", а в файле pubspec.yaml прописала дирректории:
+
  ` uses-material-design: true
   assets:
   - assets/`
@@ -92,6 +95,7 @@ class _ColorContainerState extends State<ColorContainer> {
     ![image](https://github.com/user-attachments/assets/a0942e2f-8aad-4e79-8cdf-6922dae83991)
 
 > Для добавления шрифтов создалв папку "fonts", а в файле pubspec.yaml прописалв дирректории:
+
 `fonts:
     - family: Apple Chancery
       fonts:
