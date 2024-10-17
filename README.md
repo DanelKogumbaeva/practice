@@ -109,6 +109,10 @@ class _ColorContainerState extends State<ColorContainer> {
         - asset: fonts/Apple Chancery.ttf```
 
 
+![image](https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82)
+![image](https://github.com/user-attachments/assets/b671f41d-13e4-443f-9a04-528b13072608)
+![image](https://github.com/user-attachments/assets/4baf949c-db0b-4b73-97a2-2defe241f29f)
+
 
 
 
