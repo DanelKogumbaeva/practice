@@ -103,10 +103,12 @@ class _ColorContainerState extends State<ColorContainer> {
     
 > Для добавления шрифтов создалв папку "fonts", а в файле pubspec.yaml прописалв дирректории:
 
-```fonts:
+```
+fonts:
     - family: Apple Chancery
       fonts:
-        - asset: fonts/Apple Chancery.ttf```
+        - asset: fonts/Apple Chancery.ttf
+```
 
 
 ![image](https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82)
