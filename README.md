@@ -111,12 +111,23 @@ fonts:
 ```
 
 ## Ключи
-![image](https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82)
-![image](https://github.com/user-attachments/assets/b671f41d-13e4-443f-9a04-528b13072608)
-![image](https://github.com/user-attachments/assets/4baf949c-db0b-4b73-97a2-2defe241f29f)
+ <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82">
+	</p>
+  <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/b671f41d-13e4-443f-9a04-528b13072608">
+	</p>
+  <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/4baf949c-db0b-4b73-97a2-2defe241f29f">
+	</p>
+
 ## Создание ListView
-![image](https://github.com/user-attachments/assets/a087b5b9-6518-4e45-9c73-598cfbb98583)
-![image](https://github.com/user-attachments/assets/8a5facdb-edbf-437a-9ffd-3ff047db7764)
+ <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/a087b5b9-6518-4e45-9c73-598cfbb98583">
+	</p>
+  <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/8a5facdb-edbf-437a-9ffd-3ff047db7764">
+	</p>
 
 
 
