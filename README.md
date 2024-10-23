@@ -142,9 +142,28 @@ fonts:
   <p align="center">
 	  <img width="250" height="490" src="https://github.com/user-attachments/assets/3334e173-930b-452c-a9c6-61560fbb61ac">
 	</p>
+ <p align="center">
+	  <img width="250" height="100" src="https://github.com/user-attachments/assets/a4426a37-6ad7-4fb4-8a37-a6be09ad6b76">
+	</p>
 
 
-![image](https://github.com/user-attachments/assets/a4426a37-6ad7-4fb4-8a37-a6be09ad6b76)
+## Управление состоянием
+ <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/31e4e3ca-a3db-4f4d-b972-7c1d05ec60b5">
+	</p>
+  <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/27d6c1f3-aa20-436a-8022-56f065c2ca20">
+	</p>
+
+
+  <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/7a3ddc5d-61b3-48c4-8cbb-9d283c56a483">
+	</p>
+  <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/47a3e8d6-6686-49d5-9f3c-627bd5e40b2a">
+	</p>
+
+
 
 
 
