@@ -142,9 +142,10 @@ fonts:
   <p align="center">
 	  <img width="250" height="490" src="https://github.com/user-attachments/assets/3334e173-930b-452c-a9c6-61560fbb61ac">
 	</p>
+ <p align="center">
+	  <img width="250" height="100" src="https://github.com/user-attachments/assets/a4426a37-6ad7-4fb4-8a37-a6be09ad6b76">
+	</p>
 
-
-![image](https://github.com/user-attachments/assets/a4426a37-6ad7-4fb4-8a37-a6be09ad6b76)
 
 ## Управление состоянием
  <p align="center">
