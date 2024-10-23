@@ -134,6 +134,12 @@ fonts:
 
 
 
+## Взаимодействие с пользователем. Создание опроса.
+
+ <p align="center">
+	  <img width="250" height="470" src="https://github.com/user-attachments/assets/2b2a6bba-deb6-482d-a1a8-6bc0cf4a6865">
+	</p>
+
 
 
 
