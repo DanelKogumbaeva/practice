@@ -92,13 +92,13 @@ class _ColorContainerState extends State<ColorContainer> {
 ```
 Скриншоты работы программы:
   <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/fa941e26-65b2-48a7-9285-6652e3a0f664">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/fa941e26-65b2-48a7-9285-6652e3a0f664">
 	</p>
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/8e16346f-0429-4d17-aa8a-7387efc0d185">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/8e16346f-0429-4d17-aa8a-7387efc0d185">
 	</p>
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/a0942e2f-8aad-4e79-8cdf-6922dae83991">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/a0942e2f-8aad-4e79-8cdf-6922dae83991">
 	</p>
     
 > Для добавления шрифтов создалв папку "fonts", а в файле pubspec.yaml прописалв дирректории:
@@ -112,21 +112,21 @@ fonts:
 
 ## Ключи
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/77becf75-da1b-4c92-90f2-efb0a0c49e82">
 	</p>
   <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/b671f41d-13e4-443f-9a04-528b13072608">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/b671f41d-13e4-443f-9a04-528b13072608">
 	</p>
   <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/4baf949c-db0b-4b73-97a2-2defe241f29f">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/4baf949c-db0b-4b73-97a2-2defe241f29f">
 	</p>
 
 ## Создание ListView
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/27e360d7-68c2-48ac-86e8-2cf43b09282d">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/27e360d7-68c2-48ac-86e8-2cf43b09282d">
 	</p>
   <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/36f08ba0-e48a-4614-81d6-85b5449b2105">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/36f08ba0-e48a-4614-81d6-85b5449b2105">
 	  
 	</p>
 
@@ -137,8 +137,15 @@ fonts:
 ## Взаимодействие с пользователем. Создание опроса.
 
  <p align="center">
-	  <img width="250" height="470" src="https://github.com/user-attachments/assets/2b2a6bba-deb6-482d-a1a8-6bc0cf4a6865">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/881dba5b-087c-4eee-beef-c6f992cbdb46">
 	</p>
+  <p align="center">
+	  <img width="250" height="570" src="https://github.com/user-attachments/assets/3334e173-930b-452c-a9c6-61560fbb61ac">
+	</p>
+![image]()
+
+![image](https://github.com/user-attachments/assets/a4426a37-6ad7-4fb4-8a37-a6be09ad6b76)
+
 
 
 
