@@ -162,6 +162,30 @@ fonts:
   <p align="center">
 	  <img width="250" height="490" src="https://github.com/user-attachments/assets/47a3e8d6-6686-49d5-9f3c-627bd5e40b2a">
 	</p>
+ 
+## BLoC
+  <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/ff583fb9-cdc1-4522-806e-1f407cc5ff21">
+	</p>
+  <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/2caf16b5-c9ac-4a3c-aba2-4ec218ede5be">
+	</p>
+   <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/95702237-85b7-45f7-b31b-c86358f27b42">
+	</p>
+   <p align="center">
+	  <img width="250" height="490" src="https://github.com/user-attachments/assets/ec57f5e4-d951-4992-bb1a-410c88a6d5d4">
+	</p>
+
+## Основы тестирования
+![image](https://github.com/user-attachments/assets/f5a170e4-d913-4ea1-9236-f902f3143e63)
+
+
+
+
+
+
+
 
 
 
