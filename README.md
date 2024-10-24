@@ -178,7 +178,7 @@ fonts:
 	</p>
 
 ## Основы тестирования
- ![image](https://github.com/user-attachments/assets/c7021e70-0b46-44cf-bf64-bf348879cea9)
+![image](https://github.com/user-attachments/assets/f5a170e4-d913-4ea1-9236-f902f3143e63)
 
 
 
