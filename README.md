@@ -177,6 +177,10 @@ fonts:
 	  <img width="250" height="490" src="https://github.com/user-attachments/assets/ec57f5e4-d951-4992-bb1a-410c88a6d5d4">
 	</p>
 
+## Основы тестирования
+ ![image](https://github.com/user-attachments/assets/c7021e70-0b46-44cf-bf64-bf348879cea9)
+
+
 
 
 
